@@ -1,0 +1,12 @@
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.dll.config
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.dll
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.pdb
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.csprojResolveAssemblyReference.cache
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.dll
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.pdb
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.dll.config
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.dll
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\bin\WS_Dich_Vu_Du_Lieu.pdb
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.csprojResolveAssemblyReference.cache
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.dll
+G:\1312179_Nam 4\HKI - XML\DoAn_10_quanlykhachsan2\1312179_XML_QLKS2_KetQuaCuoiCung\source\1312179_XML_QLKS2_1\WS_Dich_Vu_Du_Lieu\obj\Debug\WS_Dich_Vu_Du_Lieu.pdb

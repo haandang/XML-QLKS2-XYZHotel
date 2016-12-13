@@ -1,0 +1,6 @@
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\bin\WS_Dich_Vu_Nghiep_Vu.dll.config
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\bin\WS_Dich_Vu_Nghiep_Vu.dll
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\bin\WS_Dich_Vu_Nghiep_Vu.pdb
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\obj\Debug\WS_Dich_Vu_Nghiep_Vu.csprojResolveAssemblyReference.cache
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\obj\Debug\WS_Dich_Vu_Nghiep_Vu.dll
+C:\Users\dvqha_000\Documents\Visual Studio 2015\Projects\XML - UD\1312179_XML_QLKS2_1\WS_Dich_Vu_Nghiep_Vu\obj\Debug\WS_Dich_Vu_Nghiep_Vu.pdb

@@ -1,0 +1,303 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Your ASP.NET application</title>
+    <style>
+        body {
+            background: #fff;
+            color: #505050;
+            font: 14px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+        #header {
+            background: #efefef;
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: normal;
+            margin: 0;
+            padding: 0 30px;
+            line-height: 150px;
+        }
+        p {
+            font-size: 20px;
+            color: #fff;
+            background: #969696;
+            padding: 0 30px;
+            line-height: 50px;
+        }
+
+
+        #main {
+            padding: 5px 30px;
+        }
+
+
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            line-height: 20px;
+        }
+
+        li {
+            padding: 4px 0;
+        }
+
+        a {
+            color: #267cb2;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .phong {
+            width: 70px;
+            height: 20px;
+            background-color: lightblue;
+            margin: 5px;
+            float: left;
+        }
+
+        #button {
+            padding: 10px;
+            margin: 10px;
+        }
+
+        #blockA {
+
+            width: 330px;
+            height: 130px;
+        }
+
+        #blockB {
+            margin-left: 350px;
+            margin-top: -150px;
+            width: 330px;
+            height: 130px;
+        }
+
+        #blockC {
+            margin-left: 700px;
+            margin-top: -120px;
+            width: 330px;
+            height: 130px;
+        }
+
+        #button {
+            padding: 10px;
+            margin: 10px;
+        }
+
+        #button2 {
+            margin-left: 340px;
+            padding: 10px;
+            margin-bottom: 10px;
+            margin-right: 10px;
+            margin-top: 10px;
+        }
+
+        #button3 {
+            margin-left: 340px;
+            padding: 10px;
+            margin-bottom: 10px;
+            margin-right: 10px;
+            margin-top: 10px;
+        }
+
+        .phongB {
+            background-color: red;
+            width: 70px;
+            height: 20px;
+            margin: 5px;
+            float: left;
+        }
+
+        #A101 {
+            background-color: red;
+        }
+
+        #Full {
+            width: 300px;
+            height: 100px;
+            background-color: lightblue;
+            margin-top: 100px;
+            text-align: center;
+        }
+
+        #Empty {
+            width: 300px;
+            height: 100px;
+            background-color: red;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="header">
+        <h1>KÍNH CHÀO QUÝ KHÁCH ĐẾN VỚI KHÁCH SẠN CHIỀU HẠ VÀNG</h1>
+        <p>HỆ THỐNG TRA CỨU THÔNG TIN PHÒNG KHÁCH SẠN CHIỀU HẠ VÀNG</p>
+    </div>
+
+    <div id="main">
+
+        <p>Hệ thống đang được phát triển</p>
+        <button id="button" class="alert-success" onclick="myFunction()">Khu A <br /> Còn 15 phòng</button>
+        <button id="button2" class="alert-success" onclick="myFunctionB()">Khu B <br /> Hết phòng</button>
+        <button id="button3" class="alert-success" onclick="myFunctionC()">Khu C <br /> Còn 14 phòng</button>
+        <div id="blocA">
+            <div id="A100" class="phong">
+                A100
+            </div>
+            <div id="A101" class="phong">
+                A101
+            </div>
+            <div id="A102" class="phong">
+                A102
+            </div>
+            <div id="A103" class="phong">
+                A103
+            </div>
+            <div id="A200" class="phong">
+                A200
+            </div>
+            <div id="A201" class="phong">
+                A201
+            </div>
+            <div id="A202" class="phong">
+                A202
+            </div>
+            <div id="A203" class="phong">
+                A203
+            </div>
+            <div id="A300" class="phong">
+                A300
+            </div>
+            <div id="A301" class="phong">
+                A301
+            </div>
+            <div id="A302" class="phong">
+                A302
+            </div>
+            <div id="A303" class="phong">
+                A303
+            </div>
+            <div id="A400" class="phong">
+                A400
+            </div>
+            <div id="A401" class="phong">
+                A401
+            </div>
+            <div id="A402" class="phong">
+                A402
+            </div>
+            <div id="A403" class="phong">
+                A403
+            </div>           
+        </div>
+        <div id="blockB">
+            <div id="myDIV" class="phongB">
+                B100
+            </div>
+            <div id="myDIV" class="phongB">
+                B101
+            </div>
+            <div id="myDIV" class="phongB">
+                B102
+            </div>
+            <div id="myDIV" class="phongB">
+                B103
+            </div>
+            <div id="myDIV" class="phongB">
+                B104
+            </div>
+            <div id="myDIV" class="phongB">
+                B200
+            </div>
+            <div id="myDIV" class="phongB">
+                B201
+            </div>
+            <div id="myDIV" class="phongB">
+                B202
+            </div>
+            <div id="myDIV" class="phongB">
+                B203
+            </div>
+            <div id="myDIV" class="phongB">
+                B300
+            </div>
+            <div id="myDIV" class="phongB">
+                B301
+            </div>
+            <div id="myDIV" class="phongB">
+                B302
+            </div>
+            <div id="myDIV" class="phongB">
+                B303
+            </div>           
+        </div>
+        
+        <div id="blockC">
+            <div id="myDIV" class="phong">
+                C100
+            </div>
+            <div id="myDIV" class="phong">
+                C101
+            </div>
+            <div id="myDIV" class="phong">
+                C102
+            </div>
+            <div id="myDIV" class="phong">
+                C103
+            </div>
+            <div id="myDIV" class="phong">
+                C200
+            </div>
+            <div id="myDIV" class="phong">
+                C201
+            </div>
+            <div id="myDIV" class="phong">
+                C202
+            </div>            
+            <div id="myDIV" class="phong">
+                C300
+            </div>
+            <div id="myDIV" class="phong">
+                C301
+            </div>
+            <div id="myDIV" class="phong">
+                C302
+            </div>           
+            <div id="myDIV" class="phong">
+                C400
+            </div>
+            <div id="myDIV" class="phong">
+                C401
+            </div>
+            <div id="myDIV" class="phong">
+                C402
+            </div>            
+            <div id="myDIV" class="phong">
+                C500
+            </div>
+        </div>
+        <div id="Full" >
+            Phòng đã được đặt
+        </div>
+        <div id="Empty">
+            Phòng còn trống
+        </div>
+    </div>
+
+</body>
+</html>
